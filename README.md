@@ -1,4 +1,3 @@
-# rspo-business-analyst-project
 # RSPO Business Analyst Project
 
 ## 📌 Project Overview
